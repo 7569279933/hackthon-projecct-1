@@ -1,6 +1,10 @@
 # hackthon-projecct-1
 to build a basic web application based on our own idea using  shared GitHub repository
 
+PROJECT NAME: NOTES TAKNG
+WEB APPLICATION NAME: SEA BLOOM 
+PURPOSE: We can add our daily notes in it. we can also edit and delete our notes.
+
 TEAM MEMBER NAMES:
 R.Pavani - Poster designing
 V.Manju sree - Poster uploading
