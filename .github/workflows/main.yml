@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sea Bloom - Daily Notes</title>
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background-color: #a86b2d; /* Poster background color */
+        color: white;
+    }
+    .poster {
+        max-width: 500px;
+        margin: auto;
+        background-color: #a86b2d;
+        padding-bottom: 20px;
+    }
+    .poster img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .title-top {
+        position: absolute;
+        margin: 10px;
+        font-weight: bold;
+        font-size: 14px;
+    }
+    .content {
+        padding: 20px;
+        text-align: center;
+    }
+    .subtitle {
+        font-weight: bold;
+        font-size: 12px;
+        margin-top: 20px;
+    }
+    .main-title {
+        font-size: 28px;
+        font-weight: bold;
+        margin: 5px 0;
+    }
+    .desc {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .get-started {
+        font-weight: bold;
+        margin-top: 20px;
+    }
+    .footer {
+        font-size: 12px;
+        margin-top: 5px;
+    }
+</style>
+</head>
+<body>
+    <div class="poster">
+        <!-- Top text -->
+        <div class="title-top">Sea Bloom</div>
+
+        <!-- Poster Image -->
+        <img src="poster1.png" alt="Daily Notes Poster">
+
+        <!-- Content -->
+        <div class="content">
+            <div class="subtitle">Organize your daily tasks effortlessly</div>
+            <div class="main-title">DAILY NOTES</div>
+            <div class="desc">Add titles to your daily works and stay organized</div>
+            <div class="get-started">Get Started</div>
+            <div class="footer">June 25, 2030<br>www.reallygreatsite.com</div>
+        </div>
+    </div>
+</body>
+</html>
